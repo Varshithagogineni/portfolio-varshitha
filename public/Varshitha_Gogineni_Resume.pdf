@@ -1,0 +1,132 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2500
+>>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(Varshitha Gogineni) Tj
+0 -20 Td
+(Denton, TX • varshithagogineni007@gmail.com • (940) 300-9984) Tj
+0 -15 Td
+(LinkedIn: linkedin.com/in/varshitha-gogineni • GitHub: github.com/Varshithagogineni) Tj
+0 -30 Td
+(Education) Tj
+0 -20 Td
+(Master of Science in Information Science) Tj
+0 -15 Td
+(University of North Texas, Denton, TX | GPA: 4.0 | Graduation: May 2026) Tj
+0 -15 Td
+(Relevant Coursework: Data Modeling, Systems Design, Web Development, Visualization) Tj
+0 -30 Td
+(Technical Skills) Tj
+0 -20 Td
+(• Programming & Development: Python, SQL, React, TypeScript, HTML5, Tailwind CSS, Vue.js, RESTful APIs, Git/GitHub) Tj
+0 -15 Td
+(• AI & Machine Learning: Deep Learning, CNNs, RAG, Anomaly Detection, Whisper STT, Computer Vision) Tj
+0 -15 Td
+(• Software Engineering: Component-Based Architecture, Agile, CI/CD, Accessibility, Performance Optimization) Tj
+0 -15 Td
+(• Tools & Platforms: Supabase, n8n, RapidMiner) Tj
+0 -15 Td
+(• Core Strengths: Problem Solving, Team Collaboration, Communication, Continuous Learning) Tj
+0 -30 Td
+(Professional Experience) Tj
+0 -20 Td
+(Teaching Assistant – University of North Texas | Dec 2024 – Present) Tj
+0 -15 Td
+(• Assist faculty by addressing student academic and technical queries during class and office hours.) Tj
+0 -15 Td
+(• Manage course technology including software setup, secure access (BitLocker), and troubleshooting.) Tj
+0 -15 Td
+(• Monitor and resolve student support tickets and emails with clear, timely responses.) Tj
+0 -15 Td
+(• Collaborating on a Voice AI project to automate responses to course FAQs, improving accessibility.) Tj
+0 -30 Td
+(Projects & Research) Tj
+0 -20 Td
+(Dallas AI Summit – Presenter | Summer 2025) Tj
+0 -15 Td
+(• Selected among the Top 15 projects and presented VoiceFit to AI professionals and industry leaders.) Tj
+0 -15 Td
+(• Showcased real-time voice-to-text fitness tracking and automation workflows using OpenAI Whisper + Supabase.) Tj
+0 -15 Td
+(• Engaged in professional feedback sessions with AI leaders on deployment and scalability.) Tj
+0 -20 Td
+(VoiceFit – Voice-Controlled Fitness Tracker | Jul 2025 – Aug 2025) Tj
+0 -15 Td
+(• Built a mobile-first PWA using React, TypeScript, Tailwind CSS, and Whisper STT.) Tj
+0 -15 Td
+(• Designed accessible UI and real-time workout tracking with offline support.) Tj
+0 -15 Td
+(• Automated workflows in n8n and integrated live dashboards for progress tracking.) Tj
+0 -20 Td
+(Deepfake Image Forgery Detection | Jan 2023 – Mar 2023) Tj
+0 -15 Td
+(• Developed a CNN model with 92.23% accuracy for detecting tampered images under compression.) Tj
+0 -20 Td
+(Vehicle Maintenance Tracker | Mar 2025 – May 2025) Tj
+0 -15 Td
+(• Designed role-based frontend forms for service logs and parts tracking.) Tj
+0 -15 Td
+(• Integrated RESTful APIs with alert systems and dashboards for real-time monitoring.) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Times-Roman
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000204 00000 n 
+0000002800 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2858
+%%EOF
+
