@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my journey in AI, cybersecurit
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://varshithagogineni.github.io/portfolio) *(Update with your actual GitHub Pages URL)*
+[View Portfolio](https://varshithagogineni.github.io/portfolio-varshitha)
 
 ## 📋 About
 
