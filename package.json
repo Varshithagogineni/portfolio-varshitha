@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "typecheck": "tsc --noEmit -p tsconfig.app.json",
     "deploy-check": "node scripts/deploy-check.js",
-    "deploy": "npm run typecheck && npm run build && npm run deploy-check"
+    "deploy": "npm run typecheck && npm run build && npm run deploy-check",
+    "vercel-build": "npm run build"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",

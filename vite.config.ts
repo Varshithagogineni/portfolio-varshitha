@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/portfolio-varshitha/', // Updated to match GitHub repository name
+  base: '/', // Vercel deployment - no base path needed
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
